@@ -41,7 +41,7 @@ For this project, I built a HoneyNet and SOC in Microsoft Azure. To accomplish t
  <br />
  <br />
  
- Click below for the excercise details:
+ Click below for the exercise details:
  
  <details close>
 
